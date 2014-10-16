@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/RandyMcMillan/ObolaSplatter/master/ObolaSplatter.png)
+![image](https://raw.githubusercontent.com/RandyMcMillan/ObolaSplatter/master/EbolaSplatter.png)
 
 
 The MIT License (MIT)
